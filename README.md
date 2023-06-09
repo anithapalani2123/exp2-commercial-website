@@ -1,4 +1,4 @@
-# exp2-commercial-website
+
 # EXP 02 - CREATING A COMMERCIAL WEBSITE USING HTML & CSS
 ## AIM:
 
@@ -433,7 +433,7 @@ html{
 ![image](https://github.com/anithapalani2123/exp2-commercial-website/assets/94184990/c4ce1df3-2efd-47df-911c-0edb43145767)
 
 
-
+![image](https://github.com/Monisha-11/EXP-02-MODERN-WEB/assets/93427240/6d672bfe-bb8f-46d1-9eb8-d5156654f9ed)
 
 
 ## RESULT:
